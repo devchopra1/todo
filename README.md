@@ -5,3 +5,4 @@ TODO LIST PROJECT \n here goes the details
 Instructions:\n
 Here Goes the enhanced instrutions \n
 HOW to contribute section
+LIscence Info section
